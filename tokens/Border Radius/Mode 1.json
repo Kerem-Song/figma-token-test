@@ -1,0 +1,62 @@
+{
+  "Sharp": {
+    "value": "0rem",
+    "type": "dimension",
+    "parent": "Border Radius/Mode 1",
+    "description": ""
+  },
+  "xxs": {
+    "value": "0.125rem",
+    "type": "dimension",
+    "parent": "Border Radius/Mode 1",
+    "description": ""
+  },
+  "xs": {
+    "value": "0.25rem",
+    "type": "dimension",
+    "parent": "Border Radius/Mode 1",
+    "description": ""
+  },
+  "s": {
+    "value": "0.5rem",
+    "type": "dimension",
+    "parent": "Border Radius/Mode 1",
+    "description": ""
+  },
+  "sm": {
+    "value": "0.75rem",
+    "type": "dimension",
+    "parent": "Border Radius/Mode 1",
+    "description": ""
+  },
+  "m": {
+    "value": "1rem",
+    "type": "dimension",
+    "parent": "Border Radius/Mode 1",
+    "description": ""
+  },
+  "ml": {
+    "value": "1.5rem",
+    "type": "dimension",
+    "parent": "Border Radius/Mode 1",
+    "description": ""
+  },
+  "lg": {
+    "value": "2rem",
+    "type": "dimension",
+    "parent": "Border Radius/Mode 1",
+    "description": ""
+  },
+  "xl": {
+    "value": "2.75rem",
+    "type": "dimension",
+    "parent": "Border Radius/Mode 1",
+    "description": ""
+  },
+  "Round": {
+    "value": "62.4375rem",
+    "type": "dimension",
+    "parent": "Border Radius/Mode 1",
+    "description": ""
+  }
+}
